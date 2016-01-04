@@ -26,8 +26,8 @@ source ~/.virtualenvs/plex-tvst-scrobber/bin/activate
 
 Fetch and install the source from the github repo.
 ```
-git clone https://github.com/jesseward/plex-tvst-scrobbler.git
-cd plex-tvst-scrobbler
+git clone https://github.com/tvshowtime/tvshowtime-plex-scrobbler.git
+cd tvshowtime-plex-scrobbler
 python setup.py install
 
 ```
